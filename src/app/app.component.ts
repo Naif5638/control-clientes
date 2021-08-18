@@ -10,4 +10,6 @@ export class AppComponent {
   title = 'control-clientes';
   faCoffee = faCoffee;
   faUser = faUser;
+
+  direccion:string = 'PROBANDO LO QUE SE HACE'
 }
